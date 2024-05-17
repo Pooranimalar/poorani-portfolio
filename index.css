@@ -1,0 +1,111 @@
+body{
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    height: 70vh;
+    width: 100vh;
+    background-color: rgb(101, 151, 101);
+    margin-left: 75vh;
+    margin-top: 15vh;
+    border: 2px solid rgb(15, 62, 15);
+    border-radius: 25px;
+}
+.name h1{
+    margin-left: 5vh;
+    margin-top: 10vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name h2{
+    margin-left: 5vh;
+    font-family: monospace;
+margin-top: -15vh;
+margin-bottom: 10vh;
+    font-size: 25px;
+    font-size: 30px;
+
+}
+.name p{
+    font-size: 22px;
+    margin-left: 5vh;
+    margin-top: 10vh;
+    font-family: cursive;
+}
+.edu{
+    margin-top: -70vh;
+    margin-bottom: 10vh;
+    margin-left: 10vh;
+  
+}
+.edu button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color: rgb(222, 148, 148) ;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
+    font-family: cursive;
+}
+
+.ski{
+    margin-bottom: 10vh;
+    margin-left: 10vh;
+}
+.ski button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color: rgb(222, 148, 148) ;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
+    font-family: cursive;
+}
+.ski button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.cer{
+    margin-bottom: 10vh;
+    margin-left: 10vh;
+}
+.cer button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color: rgb(222, 148, 148) ;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
+    font-family: cursive;
+}
+.cer button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.con{
+    margin-bottom: 10vh;
+    margin-left: 10vh;
+}
+.con button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color: rgb(222, 148, 148) ;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
+    font-family: cursive;
+}
+.con button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.name img{
+    width: 30vh;
+    height: 30vh;
+    margin-left: 65vh;
+    margin-top: -15vh;
+    border: 2px solid rgb(45, 105, 45);
+    border-radius: 10vh;
+}

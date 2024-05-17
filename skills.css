@@ -1,0 +1,174 @@
+body{
+    background-image: url(bg6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home{
+    margin-top: 15vh;
+    margin-left: 10vh;
+}
+.home button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background: radial-gradient(circle at 10% 20%, rgb(255, 189, 189) 0%, rgb(255, 216, 168) 62%, rgb(255, 248, 168) 100.7%);
+    font-family: cursive;
+}
+.home button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.ski{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+.ski button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    
+    background: radial-gradient(circle at 10% 20%, rgb(255, 189, 189) 0%, rgb(255, 216, 168) 62%, rgb(255, 248, 168) 100.7%);
+    font-family: cursive;
+}
+
+.cer{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+.cer button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background: radial-gradient(circle at 10% 20%, rgb(255, 189, 189) 0%, rgb(255, 216, 168) 62%, rgb(255, 248, 168) 100.7%);
+    font-family: cursive;
+}
+.cer  button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.con{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+.con button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background: radial-gradient(circle at 10% 20%, rgb(255, 189, 189) 0%, rgb(255, 216, 168) 62%, rgb(255, 248, 168) 100.7%);
+    font-family: cursive;
+}
+.con button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.head{
+    margin-left: 60vh;
+    margin-top: -85vh;
+    font-size: 20px;
+    color: rgb(212, 121, 9);
+    font-family: cursive;
+}
+.pr{
+    margin-left: 60vh;
+    font-size: 25px;
+    margin-top: 10vh;
+}
+.java img{
+    display: flex;
+    height: 10vh;
+    width: 10vh;
+   margin-left: 110vh;
+   margin-top: -15vh;
+}
+.js img{
+    height: 10vh;
+    width: 20vh;
+    margin-left: 125vh;
+    margin-top: -50vh;
+}
+.scripting{
+    margin-left: 60vh;
+    font-size: 25px;
+    margin-top: 10vh;
+}
+.html img{
+    display: flex;
+    height: 10vh;
+    width: 15vh;
+    margin-left: 110vh;
+   margin-top: -12vh;
+}
+.css img{
+    height: 10vh;
+    width: 20vh;
+    margin-left: 125vh;
+    display: flex;
+    margin-top: -10vh;
+
+}
+.boot{
+    display: flex;
+    height: 10vh;
+    width: 15vh;
+    margin-left: 145vh;
+    margin-top: -10vh;
+}
+.lib{
+    margin-left: 60vh;
+    font-size: 25px;
+    
+}
+.rid{
+    display: flex;
+    height: 10vh;
+    width: 15vh;
+    margin-left: 140vh;
+    margin-top: -15vh;
+}
+.react{
+    display: flex;
+    width: 20vh;
+    height: 15vh;
+    margin-left: 110vh;
+    margin-top: -10vh;
+}
+.data{
+    margin-left: 60vh;
+    font-size: 25px;
+   
+}
+.data img{
+    display: flex;
+    width: 20vh;
+    height: 15vh;
+    margin-left: 45vh;
+    margin-top: -15vh;
+}
+.tool{
+    margin-left: 60vh;
+    font-size: 25px;
+    
+}
+.post img{
+    display: flex;
+    width: 15vh;
+    height: 10vh;
+    margin-left: 110vh;
+    margin-top: -15vh;
+}
+.git img{
+    display: flex;
+    width: 20vh;
+    height: 10vh;
+    margin-left: 130vh;
+    margin-top: -10vh;
+
+}

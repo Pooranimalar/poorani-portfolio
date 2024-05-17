@@ -1,0 +1,124 @@
+body{
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home{
+    margin-top: 15vh;
+    margin-left: 10vh;
+}
+.home button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background: radial-gradient(circle at 0.1% 53.8%, rgb(255, 182, 172) 0%, rgb(255, 123, 172) 100.2%);
+    font-family: cursive;
+}
+.home button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.ski{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+.ski button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    
+    background: radial-gradient(circle at 0.1% 53.8%, rgb(255, 182, 172) 0%, rgb(255, 123, 172) 100.2%);
+    font-family: cursive;
+}
+.ski button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.cer{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+.cer button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background: radial-gradient(circle at 0.1% 53.8%, rgb(255, 182, 172) 0%, rgb(255, 123, 172) 100.2%);
+    font-family: cursive;
+}
+
+.con{
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+.con button[type=submit]{
+    width: 30vh;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 15px;
+    font-size: 25px;
+    background: radial-gradient(circle at 0.1% 53.8%, rgb(255, 182, 172) 0%, rgb(255, 123, 172) 100.2%);
+    font-family: cursive;
+}
+.con button[type=submit]:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.container{
+    height: 80vh;
+    width: 120vh;
+    background: radial-gradient(circle at 0.1% 53.8%, rgb(255, 182, 172) 0%, rgb(255, 123, 172) 100.2%);
+    margin-left: 67vh;
+    margin-top: -75vh;
+    border: 2px solid;
+    border-radius: 25px;
+}
+.abt h1{
+    margin-left: 3vh;
+    font-size: 30px;
+    color: rgb(233, 13, 108);
+}
+.abt p{
+    font-size: 18px;
+    margin-left: 3vh;
+    font-family: cursive;
+    margin-top: -2vh;
+}
+.edu h1{
+    margin-left: 3vh;
+    font-size: 30px;
+    color: rgb(233, 13, 108);
+}
+.edu p{
+    font-size: 18px;
+    margin-left: 3vh;
+    font-family: cursive;
+    margin-top: -2vh;
+  
+}
+.do h1{
+    margin-left: 3vh;
+    font-size: 30px;
+    color: rgb(233, 13, 108);
+}
+.do p{
+    font-size: 18px;
+    margin-left: 3vh;
+    font-family: cursive;
+    margin-top: -2vh;
+}
+.Hob h1{
+    margin-left: 3vh;
+    font-size: 30px;
+    color: rgb(233, 13, 108); 
+}
+.Hob p{
+    font-size: 18px;
+    margin-left: 3vh;
+    font-family: cursive;
+    margin-top: -2vh; 
+}
